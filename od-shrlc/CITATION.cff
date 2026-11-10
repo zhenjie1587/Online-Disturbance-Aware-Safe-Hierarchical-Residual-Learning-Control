@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript when using this research code."
+title: "Disturbance-Aware Online Hierarchical Control for Building Heating without Historical Operating Data under Dynamic Electricity Pricing"
+type: software
+authors:
+  - family-names: Ma
+    given-names: Le
+  - family-names: Yao
+    given-names: Zhenjie
+  - family-names: Zhao
+    given-names: Linhan
+  - family-names: Hu
+    given-names: Shuai
+  - family-names: Du
+    given-names: Guanfeng
+  - family-names: Jin
+    given-names: Xu

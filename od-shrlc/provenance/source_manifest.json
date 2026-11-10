@@ -1,0 +1,23 @@
+{
+  "provenance/delay_source/controller.py": "d262e6e6d4b1ef7a1d3ce91057c257ead68e827aea7899cb1e1f59327270cf48",
+  "provenance/delay_source/controller_config.py": "16086db2a4a30d6835d691dc982f2b0392a4f29e130960d512e62da5adb81801",
+  "provenance/delay_source/experiment_support.py": "46722a704fcc52c7af42c1345107671dc6d3043e7f495278460a0c7a0a1f7851",
+  "provenance/delay_source/nn_compensator_tcn_gru_v2.py": "9b8bf65664fdceb9915ed48a43cbbd5f6ff17531868096cbe4bbfc2a4b9dc7c5",
+  "provenance/delay_source/run_matrix.py": "297eee67fcf3fdb09da538c8655c91cefb3257acc76a10522a41fedaf3c0ce8e",
+  "provenance/delay_source/unified_rules.py": "e17cd06aa2d6c9992141bebb239f65ac9ef69d28a609603da66212b9bec5fe41",
+  "reproduction/revision_v2/controller.py": "6c79b5e07a8c76baa555fc6650aad09ffceb04d9ceeb2bdce041fe2d56ab7824",
+  "reproduction/revision_v2/controller_config.py": "16086db2a4a30d6835d691dc982f2b0392a4f29e130960d512e62da5adb81801",
+  "reproduction/revision_v2/experiment_support.py": "46722a704fcc52c7af42c1345107671dc6d3043e7f495278460a0c7a0a1f7851",
+  "reproduction/revision_v2/nn_compensator_tcn_gru_v2.py": "9b8bf65664fdceb9915ed48a43cbbd5f6ff17531868096cbe4bbfc2a4b9dc7c5",
+  "reproduction/revision_v2/run_matrix.py": "8fad81909c169d30a874c4203f2222ea4865a30a5bb90927924fb465596efdbb",
+  "reproduction/revision_v2/unified_rules.py": "e17cd06aa2d6c9992141bebb239f65ac9ef69d28a609603da66212b9bec5fe41",
+  "reproduction/revision_v3/controller.py": "15a3bb4722906664548c3a1149874453159e0227c7900584187f380ba1dbf4ba",
+  "reproduction/revision_v3/controller_config.py": "16086db2a4a30d6835d691dc982f2b0392a4f29e130960d512e62da5adb81801",
+  "reproduction/revision_v3/experiment_support.py": "46722a704fcc52c7af42c1345107671dc6d3043e7f495278460a0c7a0a1f7851",
+  "reproduction/revision_v3/immediate_teachers.py": "857af5d02661db6cb9496ab017b3724b2460d180ad4bafe266e23237dd47707d",
+  "reproduction/revision_v3/nn_compensator_tcn_gru_v2.py": "9b8bf65664fdceb9915ed48a43cbbd5f6ff17531868096cbe4bbfc2a4b9dc7c5",
+  "reproduction/revision_v3/run_apartment_transfer.py": "6886e0091ca9f637cdb3362b3d63711268d1239dea3d10f8668c1587c0105b87",
+  "reproduction/revision_v3/run_matrix.py": "1be6eac2d522bfdd5ee5684c124f30d325e3e09ec4ebbaa1ebfc4e482f1e8150",
+  "reproduction/revision_v3/unified_rules.py": "e17cd06aa2d6c9992141bebb239f65ac9ef69d28a609603da66212b9bec5fe41",
+  "reproduction/revision_v3/delay_experiment/run_delay.py": "ad95a0e6b03b03cc2535e216d83f65648f61433cde69758dbe71ee01ca73b903"
+}

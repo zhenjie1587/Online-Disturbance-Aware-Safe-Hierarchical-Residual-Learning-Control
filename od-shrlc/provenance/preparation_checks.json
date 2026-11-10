@@ -1,0 +1,13 @@
+{
+  "offline_tests_passed": 6,
+  "all_python_sources_parse": true,
+  "main_and_extension_source_freezes_match": true,
+  "delay_preparation_matches_six_archived_files": true,
+  "gitignore_patterns_verified": true,
+  "absolute_local_paths_found": 0,
+  "common_secret_patterns_found": 0,
+  "dependency_versions_checked_against_saved_environment": true,
+  "no_boptest_sessions_started": true,
+  "no_remote_repository_created": true,
+  "scope": "Controller and internal experiments; external comparator checkpoints/full logs and complete figure regeneration are excluded."
+}
